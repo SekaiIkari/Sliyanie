@@ -8,7 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Button" HorizontalAlignment="Center" Margin="0,344,0,0" VerticalAlignment="Top" Height="35" Width="120"/>
-        <DatePicker HorizontalAlignment="Center" Margin="0,278,0,0" VerticalAlignment="Top" Height="26" Width="204"/>
+        <DatePicker HorizontalAlignment="Center" Margin="0,296,0,0" VerticalAlignment="Top" Height="26" Width="204"/>
+        <Image Margin="260,21,260,161" Source="/2022-04-18 10-19-15.JPG" Stretch="Fill"/>
 
     </Grid>
 </Window>
